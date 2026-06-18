@@ -1,0 +1,43 @@
+{
+    "verification_codes": [
+        {
+            "account_id": 0,
+            "code": "",
+            "time": ""
+        }
+    ],
+    "deposits": [
+        {
+            "account_id": 0,
+            "amount": 0,
+            "time": ""
+        }
+    ],
+    "withdraws": [
+        {
+            "account_id": 0,
+            "amount": 0,
+            "time": ""
+        }
+    ],
+    "transfers": [
+        {
+            "sender_account_id": 0,
+            "recipient_account_id": 0,
+            "amount": 0,
+            "time": ""
+        }
+    ],
+    "accounts_creation": [
+        {
+            "account_id": 0,
+            "time": ""
+        }
+    ],
+    "accounts_closing": [
+        {
+            "account_id": 0,
+            "time": ""
+        }
+    ]
+}
