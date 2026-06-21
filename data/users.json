@@ -1,112 +1,12 @@
 [
     {
         "id": 0,
-        "name": "User 0",
-        "email": "user0@email.com",
-        "password": "pass0000",
-        "account_number": "100000",
+        "name": "",
+        "email": "",
+        "password": "",
+        "account_number": "",
         "balance": 0,
-        "is_active": true,
-        "closed": false
-    },
-    {
-        "id": 1,
-        "name": "User 1",
-        "email": "user1@email.com",
-        "password": "pass0001",
-        "account_number": "100001",
-        "balance": 150,
-        "is_active": true,
-        "closed": false
-    },
-    {
-        "id": 2,
-        "name": "User 2",
-        "email": "user2@email.com",
-        "password": "pass0002",
-        "account_number": "100002",
-        "balance": 300,
         "is_active": false,
-        "closed": false
-    },
-    {
-        "id": 3,
-        "name": "User 3",
-        "email": "user3@email.com",
-        "password": "pass0003",
-        "account_number": "100003",
-        "balance": 450,
-        "is_active": true,
-        "closed": false
-    },
-    {
-        "id": 4,
-        "name": "User 4",
-        "email": "user4@email.com",
-        "password": "pass0004",
-        "account_number": "100004",
-        "balance": 600,
-        "is_active": true,
-        "closed": false
-    },
-    {
-        "id": 5,
-        "name": "User 5",
-        "email": "user5@email.com",
-        "password": "pass0005",
-        "account_number": "100005",
-        "balance": 750,
-        "is_active": false,
-        "closed": false
-    },
-    {
-        "id": 6,
-        "name": "User 6",
-        "email": "user6@email.com",
-        "password": "pass0006",
-        "account_number": "100006",
-        "balance": 900,
-        "is_active": true,
-        "closed": false
-    },
-    {
-        "id": 7,
-        "name": "User 7",
-        "email": "user7@email.com",
-        "password": "pass0007",
-        "account_number": "100007",
-        "balance": 1050,
-        "is_active": true,
-        "closed": false
-    },
-    {
-        "id": 8,
-        "name": "User 8",
-        "email": "user8@email.com",
-        "password": "pass0008",
-        "account_number": "100008",
-        "balance": 1200,
-        "is_active": false,
-        "closed": false
-    },
-    {
-        "id": 9,
-        "name": "User 9",
-        "email": "user9@email.com",
-        "password": "pass0009",
-        "account_number": "100009",
-        "balance": 1350,
-        "is_active": true,
-        "closed": false
-    },
-    {
-        "id": 10,
-        "name": "User 10",
-        "email": "user10@email.com",
-        "password": "pass0010",
-        "account_number": "100010",
-        "balance": 1500,
-        "is_active": true,
         "closed": false
     }
 ]

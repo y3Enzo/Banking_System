@@ -4,6 +4,21 @@
             "account_id": 0,
             "code": "",
             "time": ""
+        },
+        {
+            "account_id": 1,
+            "code": "454801",
+            "time": "06/21/26 10:49:44"
+        },
+        {
+            "account_id": 1,
+            "code": "897333",
+            "time": "06/21/26 10:56:33"
+        },
+        {
+            "account_id": 1,
+            "code": "228351",
+            "time": "06/21/26 10:59:13"
         }
     ],
     "deposits": [
@@ -11,6 +26,11 @@
             "account_id": 0,
             "amount": 0,
             "time": ""
+        },
+        {
+            "account_id": 1,
+            "amount": 70,
+            "time": "06/21/26 10:50:05"
         }
     ],
     "withdraws": [
@@ -32,12 +52,20 @@
         {
             "account_id": 0,
             "time": ""
+        },
+        {
+            "account_id": 1,
+            "time": "06/21/26 10:48:20"
         }
     ],
     "accounts_closing": [
         {
             "account_id": 0,
             "time": ""
+        },
+        {
+            "account_id": 1,
+            "time": "06/21/26 10:59:16"
         }
     ]
 }
