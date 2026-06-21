@@ -190,7 +190,7 @@ class Bank:
 
     def auth_user(self, user):
         for existing_user in user._users_list:
-            if existing_user["email"] != user._email and existing_user["password"] != user._password:
+            if existing_user["email"] != user._email or existing_user["password"] != user._password:
                 continue
             user._id = existing_user["id"]
             user._account_number = existing_user["account_number"]
